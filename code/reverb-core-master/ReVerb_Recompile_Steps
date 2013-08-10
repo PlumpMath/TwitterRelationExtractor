@@ -1,0 +1,5 @@
+export M2_HOME=/usr/local/apache-maven/apache-maven-3.0.4
+export M2=/usr/local/apache-maven/apache-maven-3.0.4/bin/
+export PATH=$M2:$PATH
+mvn clean compile assembly:single
+java -Xmx512m -jar ./target/reverb-core-1.4.1-SNAPSHOT-jar-with-dependencies.jar testFile.txt

@@ -1,0 +1,7 @@
+To run the system follow these steps:
+1) Download the source code 'code.zip' and extract it.
+2) Change the directory to the extracted folder 'code'.
+3) Run the command: python reverb_2.0.py test_tweets
+   where 'test_tweets' is the file containing the test tweets from which relation has to be extracted.
+
+Note: If you want to make changes to ReVerb and extend this tool than recompile it using steps mentioned in file "code/reverb-core-master/ReVerb_Recompile_Steps".

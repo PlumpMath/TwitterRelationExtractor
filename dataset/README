@@ -1,0 +1,8 @@
+This folder contains:
+1) News Channels 1000 tweets collected from five different news channels("NewsChannels_1000_Tweets") and Reverb's output, its analysis in files NewsChannels_1000_Tweets_Output and NewsChannels_1000_Tweets_Ouput_Analysis respectively.
+2) NewsChannels_1000_Tweets_Cleaned_Output contains Reverb's output of news channel 1000 tweets after cleaning and NewsChannels_1000_Tweets_Cleaned_Output_Analysis is the corresponding analysis file.
+3) NewsChannels_1000_Tweets_Output_FinalStage contains Reverb's output of news channel 1000 tweets after all optimizations in Reverb and NewsChannels_1000_Tweets_Output_FinalStage_Analysis is the corresponding analysis file.
+
+Similar files for randomly collected 1000 tweets start with Random_.
+
+Note: Reverbs output are tab seperated.
